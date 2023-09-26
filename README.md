@@ -46,7 +46,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Para rodar este projeto localmente, siga estas etapas:
 
-1. Clone o repositório: `git clone https://github.com/seuusuario/seuprojeto.git`
+1. Clone o repositório: `git clone https://github.com/vhpaula/projetoLinks.git`
 2. Acesse a pasta do projeto: `cd links`
 3. Instale as dependências: `npm install` ou `yarn install`
 
