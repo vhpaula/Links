@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-   <img alt="projeto Links." src="[.github/preview.svg](https://raw.githubusercontent.com/vhpaula/Links/957318d5890ac794fe1f309f68ec3e021896b993/.github/preview.svg)" width="100%">
+   <img alt="projeto Links." src="https://raw.githubusercontent.com/vhpaula/Links/957318d5890ac794fe1f309f68ec3e021896b993/.github/preview.svg" width="100%">
 </p>
 
 ## 🚀 Visão Geral
