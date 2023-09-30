@@ -4,14 +4,14 @@
 <br>
 
 <p align="center">
-  <a href="#-overview">Visão Geral</a> •
-  <a href="#-tecnologias">Tecnologias</a> •
-  <a href="#-funcionalidades">Funcionalidades</a> •
-  <a href="#-instalação">Instalação</a> •
-  <a href="#-uso">Uso</a> •
-  <a href="#-layout">Layout</a> •
-  <a href="#-contribuição">Contribuição</a> •
-  <a href="#-licença">Licença</a>
+  <a href="#overview">Visão Geral</a> •
+  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#funcionalidades">Funcionalidades</a> •
+  <a href="#instalação">Instalação</a> •
+  <a href="#uso">Uso</a> •
+  <a href="#layout">Layout</a> •
+  <a href="#contribuição">Contribuição</a> •
+  <a href="#licença">Licença</a>
 </p>
 
 <br>
@@ -23,7 +23,7 @@
 
 <br>
 
-<h2 id="-overview"> 🚀 Visão Geral </h2> 
+<h2 id="overview"> 🚀 Visão Geral </h2> 
 
 <br>
 
@@ -32,7 +32,7 @@ O projeto "Links" é um aplicativo baseado em ReactJS, TypeScript, TailwindCSS e
 <br>
 <br>
 
-<h2 id="-tecnologias"> 💻 Tecnologias </h2>
+<h2 id="tecnologias"> 💻 Tecnologias </h2>
 <br>
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -48,7 +48,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 <br>
 
-<h2 id="-funcionalidades"> ⭐ Funcionalidades </h2>
+<h2 id="funcionalidades"> ⭐ Funcionalidades </h2>
 
 <br>
 
@@ -61,7 +61,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 <br>
 
-<h2 id="-instalação"> 📦 Instalação </h2>
+<h2 id="instalação"> 📦 Instalação </h2>
 
 <br>
 
@@ -74,7 +74,7 @@ Para rodar este projeto localmente, siga estas etapas:
 <br>
 <br>
 
-<h2 id="-uso"> 📝 Uso </h2>
+<h2 id="uso"> 📝 Uso </h2>
 
 <br>
 
@@ -84,7 +84,7 @@ Para rodar este projeto localmente, siga estas etapas:
 <br>
 <br>
 
-<h2 id="-layout"> 🔖 Layout </h2>
+<h2 id="layout"> 🔖 Layout </h2>
 
 <br>
 
@@ -93,7 +93,7 @@ O layout do projeto foi baseado no projeto do Figma criado por Vyshnav Gangadhar
 <br>
 <br>
 
-<h2 id="-contribuição">  🤝 Contribuição  </h2>
+<h2 id="contribuição">  🤝 Contribuição  </h2>
 
 <br>
 
@@ -102,7 +102,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 <br>
 <br>
 
-<h2 id="-licença"> 📄 Licença </h2>
+<h2 id="licença"> 📄 Licença </h2>
 
 <br>
 
