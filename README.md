@@ -27,7 +27,7 @@ O projeto "Links" é um aplicativo baseado em ReactJS, TypeScript, TailwindCSS e
 <br>
 <br>
 
-## 💻 Tecnologias
+<h2 id="-tecnologias"> 💻 Tecnologias </h2>
 <br>
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -43,8 +43,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 <br>
 
-## ⭐ Funcionalidades
+<h2 id="-funcionalidades"> ⭐ Funcionalidades </h2>
+
 <br>
+
     - Rota principal ("/"): Exibe a página de links personalizada do usuário.
     - Rota de login ("/login"): Permite que os usuários façam login para acessar a área administrativa.
     - Rota administrativa ("/admin"): Os usuários autenticados podem cadastrar novos links para a página de links personalizada.
@@ -54,8 +56,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 <br>
 
-## 📦 Instalação
+<h2 id="-instalação"> 📦 Instalação </h2>
+
 <br>
+
 Para rodar este projeto localmente, siga estas etapas:
 
     1. Clone o repositório: `git clone https://github.com/vhpaula/projetoLinks.git`
@@ -65,34 +69,44 @@ Para rodar este projeto localmente, siga estas etapas:
 <br>
 <br>
 
-## 📝 Uso
+<h2 id="-uso"> 📝 Uso </h2>
+
 <br>
+
     - Execute o aplicativo localmente: `npm start` ou `yarn start`
     - Acesse o aplicativo no seu navegador: `http://localhost:3000`
 
 <br>
 <br>
 
-## 🔖 Layout
+<h2 id="-layout"> 🔖 Layout </h2>
+
 <br>
+
 O layout do projeto foi baseado no projeto do Figma criado por Vyshnav Gangadhar, que pode ser acessado [aqui](https://www.figma.com/community/file/1140170887273934289/links-ui-design).
 
 <br>
 <br>
 
-## 🤝 Contribuição
+<h2 id="-contribuição">  🤝 Contribuição  </h2>
+
 <br>
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar este projeto. Certifique-se de seguir as diretrizes de contribuição.
 
 <br>
 <br>
 
-## 📄 Licença
+<h2 id="-licença"> 📄 Licença </h2>
+
 <br>
+
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
 <br>
 ---
 
 <br>
 <br>
+
 Feito com ❤️ por Vitor Henrique
