@@ -1,6 +1,7 @@
 <h1 align="center">Links</h1>
 
 <br>
+<br>
 
 <p align="center">
   <a href="#-overview">Visão Geral</a> •
@@ -22,7 +23,7 @@
 
 <br>
 
-<h2 id="-overview">🚀 Visão Geral</h2> 
+<h2 id="-overview"> 🚀 Visão Geral </h2> 
 
 <br>
 
@@ -111,7 +112,6 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 
 <hr />
 
-<br>
 <br>
 
 Feito com ❤️ por Vitor Henrique
