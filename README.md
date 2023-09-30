@@ -1,5 +1,7 @@
 <h1 align="center">Links</h1>
 
+<br>
+
 <p align="center">
   <a href="#-overview">Visão Geral</a> •
   <a href="#-tecnologias">Tecnologias</a> •
@@ -21,6 +23,8 @@
 <br>
 
 <h2 id="-overview">🚀 Visão Geral</h2> 
+
+<br>
 
 O projeto "Links" é um aplicativo baseado em ReactJS, TypeScript, TailwindCSS e Firebase que permite aos usuários criar uma página de links personalizada para compartilhar suas redes sociais e outros links importantes. Ele inclui funcionalidades de login, gerenciamento de perfil e a capacidade de adicionar links para várias redes sociais, como Facebook, Instagram, Twitter, YouTube e GitHub.
 
@@ -104,7 +108,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 <br>
----
+
+<hr />
 
 <br>
 <br>
