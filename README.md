@@ -53,6 +53,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 <br>
+
 ## 📦 Instalação
 <br>
 Para rodar este projeto localmente, siga estas etapas:
@@ -63,6 +64,7 @@ Para rodar este projeto localmente, siga estas etapas:
 
 <br>
 <br>
+
 ## 📝 Uso
 <br>
     - Execute o aplicativo localmente: `npm start` ou `yarn start`
@@ -70,18 +72,21 @@ Para rodar este projeto localmente, siga estas etapas:
 
 <br>
 <br>
+
 ## 🔖 Layout
 <br>
 O layout do projeto foi baseado no projeto do Figma criado por Vyshnav Gangadhar, que pode ser acessado [aqui](https://www.figma.com/community/file/1140170887273934289/links-ui-design).
 
 <br>
 <br>
+
 ## 🤝 Contribuição
 <br>
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar este projeto. Certifique-se de seguir as diretrizes de contribuição.
 
 <br>
 <br>
+
 ## 📄 Licença
 <br>
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
