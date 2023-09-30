@@ -42,11 +42,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ⭐ Funcionalidades
 
-- Rota principal ("/"): Exibe a página de links personalizada do usuário.
-- Rota de login ("/login"): Permite que os usuários façam login para acessar a área administrativa.
-- Rota administrativa ("/admin"): Os usuários autenticados podem cadastrar novos links para a página de links personalizada.
-- Rota de perfil ("/admin/profile"): Permite aos usuários personalizar o título do perfil e uma descrição.
-- Rota de redes sociais ("/admin/social"): Permite aos usuários cadastrar links para redes sociais, incluindo Facebook, Instagram, Twitter, YouTube e GitHub.
+    - Rota principal ("/"): Exibe a página de links personalizada do usuário.
+    - Rota de login ("/login"): Permite que os usuários façam login para acessar a área administrativa.
+    - Rota administrativa ("/admin"): Os usuários autenticados podem cadastrar novos links para a página de links personalizada.
+    - Rota de perfil ("/admin/profile"): Permite aos usuários personalizar o título do perfil e uma descrição.
+    - Rota de redes sociais ("/admin/social"): Permite aos usuários cadastrar links para redes sociais, incluindo Facebook, Instagram, Twitter, YouTube e GitHub.
 
 <br>
 
