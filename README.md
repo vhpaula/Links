@@ -29,14 +29,14 @@ O projeto "Links" é um aplicativo baseado em ReactJS, TypeScript, TailwindCSS e
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- ReactJS
-- TypeScript
-- TailwindCSS
-- Firebase
-- Git e Github
-- Figma
+    - HTML
+    - CSS
+    - ReactJS
+    - TypeScript
+    - TailwindCSS
+    - Firebase
+    - Git e Github
+    - Figma
 
 <br>
 
@@ -54,16 +54,16 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Para rodar este projeto localmente, siga estas etapas:
 
-1. Clone o repositório: `git clone https://github.com/vhpaula/projetoLinks.git`
-2. Acesse a pasta do projeto: `cd links`
-3. Instale as dependências: `npm install` ou `yarn install`
+    1. Clone o repositório: `git clone https://github.com/vhpaula/projetoLinks.git`
+    2. Acesse a pasta do projeto: `cd links`
+    3. Instale as dependências: `npm install` ou `yarn install`
 
 <br>
 
 ## 📝 Uso
 
-- Execute o aplicativo localmente: `npm start` ou `yarn start`
-- Acesse o aplicativo no seu navegador: `http://localhost:3000`
+    - Execute o aplicativo localmente: `npm start` ou `yarn start`
+    - Acesse o aplicativo no seu navegador: `http://localhost:3000`
 
 <br>
 
