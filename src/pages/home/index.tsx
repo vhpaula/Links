@@ -8,7 +8,7 @@ import { db } from "../../services/firebaseConnection";
 import { getDocs, collection, query, orderBy, doc, getDoc } from "firebase/firestore";
 
 import logoimg from "../../assets/images/user-avatar.svg";
-import iconWebsite from "../../assets/icons/website.svg";
+
 import arrow from "../../assets/icons/arrow.svg";
 import { Footer } from "../../components/Footer";
 

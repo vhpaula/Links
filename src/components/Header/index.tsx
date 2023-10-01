@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { RiPagesFill, RiExternalLinkLine, RiGroup2Fill, RiUserSettingsFill, RiDoorFill, RiCloseFill, RiMenu2Fill } from "react-icons/ri";
+import { RiCloseFill, RiMenu2Fill } from "react-icons/ri";
 import { CiGrid31, CiGrid2H, CiVault, CiUser, CiLogout } from "react-icons/ci";
 
 import { Link } from "react-router-dom";
