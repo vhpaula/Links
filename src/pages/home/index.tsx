@@ -12,6 +12,16 @@ import logoimg from "../../assets/images/user-avatar.svg";
 import arrow from "../../assets/icons/arrow.svg";
 import { Footer } from "../../components/Footer";
 
+import iconWebsite from "../../assets/icons/website.svg";
+import icon3D from "../../assets/icons/3D.svg";
+import iconBooks from "../../assets/icons/books.svg";
+import iconCart from "../../assets/icons/cart.svg";
+import iconClock from "../../assets/icons/clock.svg";
+import iconMail from "../../assets/icons/mail.svg";
+import iconPen from "../../assets/icons/pen.svg";
+import iconPencil from "../../assets/icons/pencil.svg";
+import iconStore from "../../assets/icons/store.svg";
+
 interface LinkProps {
     id: string;
     name: string;
