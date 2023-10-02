@@ -28,6 +28,7 @@
 <br>
 
 O projeto "Links" é um aplicativo baseado em ReactJS, TypeScript, TailwindCSS e Firebase que permite aos usuários criar uma página de links personalizada para compartilhar suas redes sociais e outros links importantes. Ele inclui funcionalidades de login, gerenciamento de perfil e a capacidade de adicionar links para várias redes sociais, como Facebook, Instagram, Twitter, YouTube e GitHub.
+
 -[Visite o projeto online](https://links-eta-brown.vercel.app/)
 
 <br>
